@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @blahblahblah552
-- 👀 I’m interested in programming, full stack
-- 🌱 I’m currently learning python, html, css, javascript, backend 
-- 💞️ I’m looking to collaborate on anything really
-- 📫 How to reach me mgabr001@odu.edu
+Mark Gabriel
+mgabr001@odu.edu
 
-<!---
-blahblahblah552/blahblahblah552 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Currently a senior at Old Dominion University studing in the field of computer science.
+Here is our latest [test pages](https://blahblahblah552.github.io/CS350-EnrollmentProjection/) for a project we were working on.
